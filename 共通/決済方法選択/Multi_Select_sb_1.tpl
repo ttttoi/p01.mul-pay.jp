@@ -267,7 +267,7 @@ gtag('config', 'UA-110965514-1');
 							<p class="control">
 
 							<span class="submit">
-								<input type="submit" value="i‚Þ" />
+								<input type="submit" value="ŽŸ‚Ö" />
 							</span>
 
 							</p>

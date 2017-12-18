@@ -190,7 +190,7 @@ gtag('config', 'UA-110965514-1');
 				<p class="control">
 				{insert name="input_returnParams"}
 				<span class="submit">
-					<input type="submit" value="i‚Þ" />
+					<input type="submit" value="ŽŸ‚Ö" />
 				</span>
 				</p>
 				<p class="back-btn"><a href="#" onclick="javascript:window.history.back(-1);return false;">–ß‚é</a></p>
