@@ -161,7 +161,7 @@ gtag('config', 'UA-110965514-1');
 								決済をやめてKanattaのサイトに戻る場合、このボタンを押してください。
 								{insert name=input_returnParams}
 								<p class="control">
-									<span class="control">
+									<span class="control btn-yellow">
 										<input type="submit" value="{$label.cancel}" />
 									</span>
 								</p>
@@ -177,7 +177,7 @@ gtag('config', 'UA-110965514-1');
 								必要事項の記入からもう一度試してみる場合、このボタンを押してください。
 								{insert name="input_keyItems"}
 								<p class="control">
-									<span class="control">
+									<span class="control btn-yellow">
 										<input type="submit" value="{$label.retry}" />
 									</span>
 								</p>
@@ -193,7 +193,7 @@ gtag('config', 'UA-110965514-1');
 								違う決済方法を選択される場合、このボタンを押してください。
 								{insert name="input_keyItems"}
 								<p class="control">
-									<span class="control">
+									<span class="control btn-yellow">
 										<input type="submit" value="{$label.select}" />
 									</span>
 								</p>
