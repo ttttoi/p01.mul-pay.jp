@@ -197,7 +197,6 @@ gtag('config', 'UA-110965514-1');
 							</span>
 
 							</p>
-							<p class="back-btn"><a href="#" onclick="javascript:window.history.back(-1);return false;">–ß‚é</a></p>
 						</div>
 					<br class="clear" />	
 				</div>

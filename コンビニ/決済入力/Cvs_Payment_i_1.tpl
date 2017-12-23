@@ -221,7 +221,7 @@ gtag('config', 'UA-110965514-1');
 						<tr>
 							<th>ìdòbî‘çÜ</th>
 							<td>
-								<input type="text" name="TelNo" size='15' maxlength="13" class="code" value="{$TelNo|htmlspecialchars}" />
+								<input type="tel" name="TelNo" size='15' maxlength="13" class="code" value="{$TelNo|htmlspecialchars}" />
 							</td>
 						</tr>
 						<tr>
